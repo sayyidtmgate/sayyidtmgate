@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sayyidtmgate
 - 👀 I’m interested in code
-- 🌱 I’m currently learning ...
 
 
 <!---
